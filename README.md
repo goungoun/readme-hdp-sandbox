@@ -4,7 +4,7 @@
 https://hortonworks.com/tutorial/sandbox-deployment-and-install-guide/section/3/
 
 ### 로그인
-admin 패스워드는 패스워드를 reset한 후 사용한다
+admin 패스워드는 `ambari-admin-password-reset`를 사용하여 패스워드를 reset한 후 사용한다
 http://[설치한 서버]:4200
 
 계정 maria_dev, raj_ops, holger_gov, amy_ds는  동일한 패스워드로 http://[설치한 서버]:8080으로 로그인 가능
