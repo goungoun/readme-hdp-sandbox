@@ -13,7 +13,7 @@ https://hortonworks.com/tutorial/learning-the-ropes-of-the-hortonworks-sandbox/#
 Ambari quick link로 연결되는 host가 내 PC에서 인식되지 않기 때문에 /etc/hosts에 등록
 
 ## Document
-호튼웍스에서 아래 문서를 참고하라고 메일로 보내주셔서 참고한다
+호튼웍스에서 아래 문서를 참고하라고 메일로 보내주셔서 참고한다<br>
 [Get started with HDP - Hello World](https://hortonworks.com/tutorial/hadoop-tutorial-getting-started-with-hdp/)
 This tutorial helps you learn the basics of Apache Hadoop, Apache Hive, and Apache Spark with the sandbox.
 
